@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @StephenNnamani
-- 👀 I’m interested in JavaScript, Golang programming languages
+- 👀 I’m interested in C#, ASP.Net, TypeScript, and Golang programming languages
 - 🌱 I’m currently learning Both
 - 💞️ I’m looking to collaborate on any project of great value
 - 📫 How to reach me email me sir.stephennnamani@gmail.com or link up on twitter @StephenScripts
